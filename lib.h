@@ -1,3 +1,3 @@
-void init (char [][], int);
+void init (char [][20], int);
 void init (char [], int);
-int ricerca (char [][], char []);
+int ricerca (char [][20], char []);
