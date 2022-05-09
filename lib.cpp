@@ -1,4 +1,4 @@
-#include "lib.h";
+#include "lib.h"
 
 void init (char x[][20], int a){
     for (int i=0; i<a; i++){
