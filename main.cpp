@@ -1,6 +1,6 @@
 #include <iostream>
 #include "lib.h"
-
+using namespace std;
 int main(){
    char lista_nomi [10][20];
     char nome [20];
