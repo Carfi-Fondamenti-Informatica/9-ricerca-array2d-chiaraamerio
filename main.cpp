@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib.h";
+#include "lib.h"
 
 int main(){
    char lista_nomi [10][20];
